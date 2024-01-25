@@ -1,0 +1,24 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+}
+.user {
+    /* width: 50%;
+    height: 50%; */
+    background: rebeccapurple;
+
+    padding: 20px;
+    /* margin: 10% auto; */
+}
+
+.user_btn {
+    position: relative;
+    right: 402px;
+}
+.user_list, .user_form{
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px;
+    scroll-behavior: auto;
+}
